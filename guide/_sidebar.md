@@ -18,11 +18,11 @@
   - [<span class="iconfont icon-nut"></span> 示例](guide/examples.md)
   - [<span class="iconfont icon-discord"></span> 加入 Discord 讨论组](https://discord.gg/YXxy8Wp)
  -->
-- <span class="iconfont icon-atom"></span> 项目说明
-  - [<span class="iconfont icon-fly"></span> README](/)
-- <span class="far fa-user"></span> Gopher 路线图
-- <span class="iconfont icon-router"></span> 后端架构师技术图谱
-- <span class="iconfont icon-component"></span> Cloud-Native 云原生
+- <span class="fa icon-atom"></span> 项目说明
+  - [<span class="fa fa-send"></span> README](/)
+- <span class="fa fa-rocket"></span> Gopher 路线图
+- <span class="fa ifa-grav"></span> 后端架构师技术图谱
+- <span class="fa fa-cloud"></span> Cloud-Native 云原生
 - <span class="iconfont icon-crown"></span> 安利推荐
 - <span class="iconfont icon-file"></span> 乱记杂谈
   - [<span class="iconfont icon-nut"></span> hello-world](random/hello-world.md)
