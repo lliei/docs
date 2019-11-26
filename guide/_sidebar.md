@@ -1,5 +1,5 @@
-- <span class="iconfont icon-atom"></span> 核心
-  - [<span class="iconfont icon-fly"></span> 介绍](/)
+<!-- - <span class="iconfont icon-atom"></span> 项目说明
+  - [<span class="iconfont icon-fly"></span> README](/)
   - [<span class="iconfont icon-install"></span> 安装和引用](guide/installation.md)
   - [<span class="iconfont icon-wxapp"></span> 开始之前](guide/preparatory.md)
   - [<span class="iconfont icon-page"></span> 页面](guide/page.md)
@@ -7,7 +7,7 @@
   - [<span class="iconfont icon-matrix"></span> 数据](guide/data.md)
   - [<span class="iconfont icon-mix"></span> 混合](guide/mixin.md)
   - [<span class="iconfont icon-plugin"></span> 插件](guide/plugin.md)
-- <span class="iconfont icon-crown"></span> 推荐扩展
+- <span class="iconfont icon-crown"></span> 安利推荐
   - [<span class="iconfont icon-satellite"></span> 状态管理](guide/state-management.md)
   - [<span class="iconfont icon-router"></span> 路由增强](guide/router.md)
   - [<span class="iconfont icon-alert"></span> 界面反馈](guide/ui-feedback.md)
@@ -17,3 +17,13 @@
 - <span class="iconfont icon-magic"></span> 还有更多
   - [<span class="iconfont icon-nut"></span> 示例](guide/examples.md)
   - [<span class="iconfont icon-discord"></span> 加入 Discord 讨论组](https://discord.gg/YXxy8Wp)
+ -->
+- <span class="iconfont icon-atom"></span> 项目说明
+  - [<span class="iconfont icon-fly"></span> README](/)
+- <span class="far fa-user"></span> Gopher 路线图
+- <span class="iconfont icon-router"></span> 后端架构师技术图谱
+- <span class="iconfont icon-component"></span> Cloud-Native 云原生
+- <span class="iconfont icon-crown"></span> 安利推荐
+- <span class="iconfont icon-file"></span> 乱记杂谈
+  - [<span class="iconfont icon-nut"></span> hello-world](random/hello-world.md)
+
