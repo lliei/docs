@@ -1,29 +1,9 @@
-<!-- - <span class="iconfont icon-atom"></span> 项目说明
-  - [<span class="iconfont icon-fly"></span> README](/)
-  - [<span class="iconfont icon-install"></span> 安装和引用](guide/installation.md)
-  - [<span class="iconfont icon-wxapp"></span> 开始之前](guide/preparatory.md)
-  - [<span class="iconfont icon-page"></span> 页面](guide/page.md)
-  - [<span class="iconfont icon-component"></span> 组件](guide/component.md)
-  - [<span class="iconfont icon-matrix"></span> 数据](guide/data.md)
-  - [<span class="iconfont icon-mix"></span> 混合](guide/mixin.md)
-  - [<span class="iconfont icon-plugin"></span> 插件](guide/plugin.md)
-- <span class="iconfont icon-crown"></span> 安利推荐
-  - [<span class="iconfont icon-satellite"></span> 状态管理](guide/state-management.md)
-  - [<span class="iconfont icon-router"></span> 路由增强](guide/router.md)
-  - [<span class="iconfont icon-alert"></span> 界面反馈](guide/ui-feedback.md)
-- <span class="iconfont icon-factory"></span> 工程化
-  - [<span class="iconfont icon-file"></span> 单文件组件](guide/single-file-component.md)
-  - [<span class="iconfont icon-pack"></span> 包管理及构建工具](guide/package-management-and-build-tools.md)
-- <span class="iconfont icon-magic"></span> 还有更多
-  - [<span class="iconfont icon-nut"></span> 示例](guide/examples.md)
-  - [<span class="iconfont icon-discord"></span> 加入 Discord 讨论组](https://discord.gg/YXxy8Wp)
- -->
-- <span class="fa icon-atom"></span> 项目说明
-  - [<span class="fa fa-send"></span> README](/)
-- <span class="fa fa-rocket"></span> Gopher 路线图
-- <span class="fa ifa-grav"></span> 后端架构师技术图谱
-- <span class="fa fa-cloud"></span> Cloud-Native 云原生
-- <span class="iconfont icon-crown"></span> 安利推荐
-- <span class="iconfont icon-file"></span> 乱记杂谈
-  - [<span class="iconfont icon-nut"></span> hello-world](random/hello-world.md)
+- <svg class="icon" aria-hidden="true"><use xlink:href="#icon-xingtuxuetang-guanli-"></use></svg> 项目说明
+  - [<svg class="icon" aria-hidden="true"><use xlink:href="#icon-xingtuxuetangtubiao-taolun"></use></svg> README](/)
+- <span class="iconfont icon-xingtuxuetang-neixunshi-"></span> Gopher 路线图
+- <span class="iconfont icon-xingtuxuetang-toupiao-"></span> 后端架构师技术图谱
+- <span class="iconfont icon-xingtuxuetang-fenxiang-"></span> Cloud-Native 云原生
+- <span class="iconfont icon-xingtuxuetang-zhengshu-"></span> 安利推荐
+- <span class="iconfont icon-xingtuxuetang-lianxi-"></span> 乱记杂谈
+  - [<span class="iconfont icon-xingtuxuetang-liuyan-"></span> hello-world](random/hello-world.md)
 
