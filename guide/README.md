@@ -1,28 +1,44 @@
-# leeifme-notes
+# Leeifme-Docs
 
->   笔记整理
->   经验总结
+> 笔记整理 经验总结   
 
-## Homepage 
+## <svg class="icon" aria-hidden="true"><use xlink:href="#icontongzhi"></use></svg> Homepage 
+### 特性
+- :honeybee: 轻盈小巧
+- :raising_hand: 极易上手
+- :chart_with_upwards_trend: 渐进增强
 
-## Install
+## <svg class="icon" aria-hidden="true"><use xlink:href="#iconfenxiang"></use></svg> Install 
+### 步骤
+- :oden: Step 1
+- :package: Step 2
+- :crystal_ball: Step 3
 
-## Usage
+## <svg class="icon" aria-hidden="true"><use xlink:href="#iconshezhi"></use></svg> Usage
 
-## Author
+<!-- tabs:start -->
 
+#### **English**
 
-- :raising_hand: Twitter: [@leeifme](https://twitter.com/leeifme)
-- :octocat: Github: [@leeifme](https://github.com/leeifme)
+Hello!
 
-<h2>License</h2>
+#### **French**
 
-<h2><svg class="icon" aria-hidden="true"><use xlink:href="#icon-xingtuxuetang-guanli-"></use></svg> leeifme</h2>
+Bonjour!
 
-Copyright © 2019 [Franck Abgrall](https://github.com/kefranabg).
+#### **Italian**
 
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+Ciao!
 
+<!-- tabs:end -->
 
+## <svg class="icon" aria-hidden="true"><use xlink:href="#icongeren"></use></svg> Author 
 
-*This README was generated with :heart: by leeifme*
+- <svg class="icon" aria-hidden="true"><use xlink:href="#icongithub"></use></svg> Github: [@leeifme](https://github.com/leeifme)
+- <svg class="icon" aria-hidden="true"><use xlink:href="#icontwitter"></use></svg> Twitter: [@leeifme](https://twitter.com/leeifme)
+
+---
+
+*Copyright © 2019 Leeifme-Docs ;*
+
+*This README was generated with :heart: by [leeifme](https://github.com/leeifme) .*
